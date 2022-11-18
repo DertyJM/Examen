@@ -1,6 +1,7 @@
 # Examen Primer Trimestre #
 ## Introducción ##
 
+En el día de hoy vamos a realizar una série de prácticas utilizando **ssh** y **comandos de linux** para tratar de aprobar el examen planteado por el profesor.
 ### Ejercicio 2 ###
 Accedemos al ordenador de "usuario" mediante ssh con el comando:
 ```
